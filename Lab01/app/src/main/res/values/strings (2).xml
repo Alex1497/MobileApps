@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab01</string>
+    <string name="txt1">txt1</string>
+    <string name="txt2">txt2</string>
+    <string name="btn1">Send</string>
+    <string name="btn2">Return</string>
+
+</resources>
